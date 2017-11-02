@@ -10,6 +10,51 @@
 - [Fira Code](https://github.com/tonsky/FiraCode/wiki) The coding font
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/featured) My favorite coding blog
 
+## Javascript API
+
+- [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+- [GamePad in the browser](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API)
+- [Speech API](http://mdn.github.io/web-speech-api/speech-color-changer/)
+- [Voice API](https://github.com/mdn/web-speech-api/tree/master/speech-color-changer)
+- [Mobile device orientation API](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
+
+## Javascript libraries
+
+- [SVG.js - Using vector graphics](http://svgjs.com)
+- [Hammer - Work with swipe gestures](http://hammerjs.github.io)
+- [Victor - Use Vector math](http://victorjs.org)
+- [GreenSock - Tweening animations by code](https://greensock.com/)
+- [Pixi.js - canvas rendering library](http://www.pixijs.com)
+- [Howler.js - audio library](https://howlerjs.com)
+- [Matter - 2D physics](http://brm.io/matter-js/)
+- [ThreeJS - 3D rendering](https://threejs.org)
+- [Isomer - isometric game library](http://jdan.github.io/isomer/)
+- [Rythm.js - Respond to music with code](https://t.co/5Rz2i4yAcx)
+
+## Reading
+
+- [Working with async / await versus Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+- [Using Custom Elements to build a DOM game](https://dev.to/eerk/inventing-your-own-html-elements-to-build-a-dom-game)
+- [Javascript Game Techniques](https://developer.mozilla.org/en-US/docs/Games)
+- [Imperative vs. Declarative, Functional vs. Object-oriented and more Javascript Terminology](https://medium.freecodecamp.com/programming-mental-models-47ccc65eb334)
+- [Experimenting with Speech Synthesis](https://www.smashingmagazine.com/2017/02/experimenting-with-speechsynthesis/)
+- [G is for Git](https://dev.to/sroy8091/g-for-git)
+- [Nativescript - building native apps in Typescript](https://www.nativescript.org)
+- [Hindley-Milner Type system](https://en.wikipedia.org/wiki/Hindley–Milner_type_system)
+
+## Youtube
+
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/)
+- [Build online multiplayer with Socket.io](http://youtu.be/JljMBn69fZM)
+
+## Tools
+
+- [Fira Code - the programming font](https://github.com/tonsky/FiraCode)
+- [GitHub Student Pack - free private repositories](https://education.github.com/pack)
+- [Chrome Web Maker](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh?hl=en)
+- [Open Game Art](https://opengameart.org)
+
 ### Vue
 
 - [Introduction to Vue by CSS Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
