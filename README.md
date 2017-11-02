@@ -30,6 +30,8 @@
 - [A beginner's guide to AI and Machine Learning](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 - [Build a perceptron from scratch](https://medium.com/@ismailghallou/build-your-perceptron-neural-net-from-scratch-e12b7be9d1ef)
 - [A neural network in 11 lines of code](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+- [Machine Learning for designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp)
+- [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Fast.ai advanced course](http://www.fast.ai)
 - [Deep learning book](http://www.deeplearningbook.org)
 - [Linear algebra and other math basics](http://www.mathscoop.com/calculus/derivatives/derivative-by-definition.php)
@@ -39,4 +41,5 @@
 - [SKLearn](http://scikit-learn.org/stable/)
 - [TensorFlow](https://www.tensorflow.org)
 - [Kaggle ML challenges](https://www.kaggle.com)
+- [Wekinator ML music generator](http://www.wekinator.org)
 
