@@ -12,6 +12,7 @@
 - [Experimenting with Speech Synthesis](https://www.smashingmagazine.com/2017/02/experimenting-with-speechsynthesis/)
 - [G is for Git](https://dev.to/sroy8091/g-for-git)
 - [Hindley-Milner Type system](https://en.wikipedia.org/wiki/Hindley–Milner_type_system)
+- [Combining design principles with machine learning](http://otoro.net/ml/) and [research](http://blog.otoro.net)
 
 ## Javascript API's and tutorials
 
