@@ -1,14 +1,21 @@
 # Creative Coding
 
-### A collection of creative coding snippets and links
+### A pretty random collection of creative coding snippets and links
 
 - [Google Bottery](https://github.com/google/bottery) Program a kitten-bot or a text-based RPG, old fashioned style (without AI)
 - [Web Speech AI](https://github.com/girliemac/web-speech-ai) A chatbot that uses the speech API
 - [Rhythm.js](https://okazari.github.io/Rythm.js/) Make your website responsive... to the beat
 - [Ascii Cinema](https://asciinema.org/browse/featured) Create instructions or ascii animations in the terminal
 - [Kitten Detector](https://github.com/girliemac/RPi-KittyCam) Detect if a cat is walking in front of your webcam
-- [Fira Code](https://github.com/tonsky/FiraCode/wiki) The coding font
-- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/featured) My favorite coding blog
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/featured) High-energy coding blog
+- [Working with async / await versus Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+- [Using Custom Elements to build a DOM game](https://dev.to/eerk/inventing-your-own-html-elements-to-build-a-dom-game)
+- [Javascript Game Techniques](https://developer.mozilla.org/en-US/docs/Games)
+- [Imperative vs. Declarative, Functional vs. Object-oriented and more Javascript Terminology](https://medium.freecodecamp.com/programming-mental-models-47ccc65eb334)
+- [Experimenting with Speech Synthesis](https://www.smashingmagazine.com/2017/02/experimenting-with-speechsynthesis/)
+- [G is for Git](https://dev.to/sroy8091/g-for-git)
+- [Nativescript - building native apps in Typescript](https://www.nativescript.org)
+- [Hindley-Milner Type system](https://en.wikipedia.org/wiki/Hindley–Milner_type_system)
 
 ## Javascript API
 
@@ -30,17 +37,6 @@
 - [ThreeJS - 3D rendering](https://threejs.org)
 - [Isomer - isometric game library](http://jdan.github.io/isomer/)
 - [Rythm.js - Respond to music with code](https://t.co/5Rz2i4yAcx)
-
-## Reading
-
-- [Working with async / await versus Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
-- [Using Custom Elements to build a DOM game](https://dev.to/eerk/inventing-your-own-html-elements-to-build-a-dom-game)
-- [Javascript Game Techniques](https://developer.mozilla.org/en-US/docs/Games)
-- [Imperative vs. Declarative, Functional vs. Object-oriented and more Javascript Terminology](https://medium.freecodecamp.com/programming-mental-models-47ccc65eb334)
-- [Experimenting with Speech Synthesis](https://www.smashingmagazine.com/2017/02/experimenting-with-speechsynthesis/)
-- [G is for Git](https://dev.to/sroy8091/g-for-git)
-- [Nativescript - building native apps in Typescript](https://www.nativescript.org)
-- [Hindley-Milner Type system](https://en.wikipedia.org/wiki/Hindley–Milner_type_system)
 
 ## Youtube
 
