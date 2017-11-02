@@ -23,7 +23,7 @@
 - [Design Pattern examples](https://henricodesjava.blog)
 - [Create a fake REST API for testing](https://github.com/typicode/json-server)
 
-### Machine Learning
+### Machine Learning tutorials
 
 - [Deep Learning Simplified](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 - [Introduction to Deep Learning and Tensorflow](https://pythonprogramming.net/tensorflow-introduction-machine-learning-tutorial/)
@@ -33,3 +33,10 @@
 - [Fast.ai advanced course](http://www.fast.ai)
 - [Deep learning book](http://www.deeplearningbook.org)
 - [Linear algebra and other math basics](http://www.mathscoop.com/calculus/derivatives/derivative-by-definition.php)
+
+### Machine Learning tools
+
+- [SKLearn](http://scikit-learn.org/stable/)
+- [TensorFlow](https://www.tensorflow.org)
+- [Kaggle ML challenges](https://www.kaggle.com)
+
