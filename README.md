@@ -1,13 +1,11 @@
 # Creative Coding
 
-### A pretty random collection of creative coding snippets and links
+## A pretty random collection of coding snippets and weird links
 
 - [Google Bottery](https://github.com/google/bottery) Program a kitten-bot or a text-based RPG, old fashioned style (without AI)
 - [Web Speech AI](https://github.com/girliemac/web-speech-ai) A chatbot that uses the speech API
 - [Rhythm.js](https://okazari.github.io/Rythm.js/) Make your website responsive... to the beat
-- [Ascii Cinema](https://asciinema.org/browse/featured) Create instructions or ascii animations in the terminal
 - [Kitten Detector](https://github.com/girliemac/RPi-KittyCam) Detect if a cat is walking in front of your webcam
-- [Working with async / await versus Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 - [Using Custom Elements to build a DOM game](https://dev.to/eerk/inventing-your-own-html-elements-to-build-a-dom-game)
 - [Javascript Game Techniques](https://developer.mozilla.org/en-US/docs/Games)
 - [Imperative vs. Declarative, Functional vs. Object-oriented and more Javascript Terminology](https://medium.freecodecamp.com/programming-mental-models-47ccc65eb334)
@@ -15,8 +13,9 @@
 - [G is for Git](https://dev.to/sroy8091/g-for-git)
 - [Hindley-Milner Type system](https://en.wikipedia.org/wiki/Hindley–Milner_type_system)
 
-## Javascript API
+## Javascript API's and tutorials
 
+- [Working with async / await versus Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 - [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [GamePad in the browser](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API)
 - [Speech API](http://mdn.github.io/web-speech-api/speech-color-changer/)
