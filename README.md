@@ -33,6 +33,7 @@
 - [Machine Learning for designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp)
 - [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Deep learning book](http://www.deeplearningbook.org)
+- [Getting Started with TensorFlow](https://www.tensorflow.org/get_started/get_started)
 
 ### Machine Learning advanced
 
