@@ -5,6 +5,7 @@
 - [Google Bottery](https://github.com/google/bottery) Program a kitten-bot or a text-based RPG, old fashioned style (without AI)
 - [Web Speech AI](https://github.com/girliemac/web-speech-ai) A chatbot that uses the speech API
 - [Rhythm.js](https://okazari.github.io/Rythm.js/) Make your website responsive... to the beat
+- [Create Art in P5.js](https://blog.kadenze.com/2017/10/31/p5-js-crash-course-recreate-art-you-love/)
 - [Kitten Detector](https://github.com/girliemac/RPi-KittyCam) Detect if a cat is walking in front of your webcam
 - [Using Custom Elements to build a DOM game](https://dev.to/eerk/inventing-your-own-html-elements-to-build-a-dom-game)
 - [Javascript Game Techniques](https://developer.mozilla.org/en-US/docs/Games)
@@ -85,6 +86,7 @@
 ### Machine Learning tools
 
 - [Deeplearning in Javascript](https://deeplearnjs.org)
+- [Tools for Machine Learning in Javascript](https://github.com/laoqiren/mlhelper)
 - [SKLearn](http://scikit-learn.org/stable/)
 - [TensorFlow](https://www.tensorflow.org)
 - [Clarifai image and video recognition tool](https://clarifai.com/developer/)
