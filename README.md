@@ -14,6 +14,7 @@
 - [G is for Git](https://dev.to/sroy8091/g-for-git)
 - [Hindley-Milner Type system](https://en.wikipedia.org/wiki/Hindley–Milner_type_system)
 - [Combining design principles with machine learning](http://otoro.net/ml/) and [research](http://blog.otoro.net)
+- [Reading OSC messages in Node and sending them to the browser](https://github.com/colinbdclark/osc.js-examples)
 
 ## Javascript API's and tutorials
 
@@ -26,6 +27,7 @@
 
 ## Javascript libraries
 
+- [AR.js - Augmented reality in the browser](https://github.com/jeromeetienne/AR.js)
 - [SVG.js - Using vector graphics](http://svgjs.com)
 - [Hammer - Work with swipe gestures](http://hammerjs.github.io)
 - [Victor - Use Vector math](http://victorjs.org)
