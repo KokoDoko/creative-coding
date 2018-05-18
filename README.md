@@ -16,6 +16,7 @@ A reading list with lots of javascript and typescript coding inspiration
 - [Matter - 2D physics](http://brm.io/matter-js/)
 - [Move an object along a path](https://codepen.io/eerk/pen/qYJREm)
 - [Boardgame.io - build a boardgame in Javascript](http://boardgame.io/#/)
+- [SVG.js - create SVG with JS](http://svgjs.com)
 
 ## Weird and interesting stuff
 
@@ -32,7 +33,6 @@ A reading list with lots of javascript and typescript coding inspiration
 
 ## Canvas
 
-- [SVG.js - Using vector graphics](http://svgjs.com)
 - [Pixi.js - canvas rendering library](http://www.pixijs.com)
 - [ThreeJS - 3D rendering](https://threejs.org)
 - [Isomer - isometric game library](http://jdan.github.io/isomer/)
