@@ -22,7 +22,6 @@ A reading list with lots of javascript and typescript coding inspiration
 
 - [Warrior JS - train a javascript warrior in the terminal](https://warrior.js.org)
 - [Marko JS - a super fast reactive UI framework](https://markojs.com)
-- [ReactiveX - the next level of building Javascript Apps](http://reactivex.io)
 - [Intersection Observer - execute code when two elements overlap](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 - [Lazy Loading with Intersection Observer](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 - [30 seconds of code: super handy JS code snippets](https://30secondsofcode.org/index)
@@ -30,6 +29,15 @@ A reading list with lots of javascript and typescript coding inspiration
 - [Parcel Module Bundler](https://parceljs.org)
 - [Wit.ai - interpret intent from text](https://wit.ai)
 - [Javascript Emotion Recognition from webcam](https://github.com/auduno/clmtrackr)
+
+## Functional Reactive Programming
+
+- [ReactiveX - the next level of building Javascript Apps](http://reactivex.io)
+- [Introduction to functional Javascript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)
+- [Fantasy Land : algebraic structures in Javascript](https://github.com/fantasyland/fantasy-land)
+- [Understanding Functors and Monads in Javascript](https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a)
+- [ES7 features](https://derickbailey.com/2017/06/06/3-features-of-es7-and-beyond-that-you-should-be-using-now/)
+- [Video Tutorial](https://sub.watchmecode.net/interviews/functional-reactive-programming/)
 
 ## Canvas
 
