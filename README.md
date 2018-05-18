@@ -22,8 +22,7 @@ A reading list with lots of javascript and typescript coding inspiration
 
 - [Warrior JS - train a javascript warrior in the terminal](https://warrior.js.org)
 - [Marko JS - a super fast reactive UI framework](https://markojs.com)
-- [Intersection Observer - execute code when two elements overlap](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
-- [Lazy Loading with Intersection Observer](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+- [Intersection Observer - execute code when elements scroll into view](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 - [30 seconds of code: super handy JS code snippets](https://30secondsofcode.org/index)
 - [CSS modules](https://github.com/css-modules/css-modules)
 - [Parcel Module Bundler](https://parceljs.org)
@@ -47,19 +46,18 @@ A reading list with lots of javascript and typescript coding inspiration
 - [Particle Engine](https://vincentgarreau.com/particles.js/)
 - [Create Art in P5.js](https://blog.kadenze.com/2017/10/31/p5-js-crash-course-recreate-art-you-love/)
 
-### Vue for Typescript
+## Vue for Typescript
 
 - [Introduction to Vue by CSS Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 - [Writing Vue Class Components with Typescript](https://alligator.io/vuejs/typescript-class-components/)
 - [Vue Typescript Single File Class Component](https://github.com/vuejs/vue-class-component/blob/master/example/App.vue)
 - [Vue Property Decorators](https://github.com/kaorun343/vue-property-decorator)
 
-## Sound
+## Sound Synthesis
 
 - [Web Speech API](http://mdn.github.io/web-speech-api/speech-color-changer/)
 - [Speech Synthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
 - [Sound Synthesis](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)
-- [Howler.js - audio library](https://howlerjs.com)
 
 ## Node
 
@@ -67,7 +65,7 @@ A reading list with lots of javascript and typescript coding inspiration
 - [Socket.io for React](https://dev.to/valentinogagliardi/going-real-time-with-socketio-nodejs-and-react)
 - [Reading OSC messages in Node and sending them to the browser](https://github.com/colinbdclark/osc.js-examples)
 
-### Javascript Machine Learning
+## Machine Learning
 
 - [Deeplearning in Javascript](https://deeplearnjs.org)
 - [TensorFlow Javascript](https://js.tensorflow.org)
