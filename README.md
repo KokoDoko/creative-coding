@@ -2,13 +2,6 @@
 
 A reading list with lots of javascript and typescript coding inspiration
 
-## Sound
-
-- [Speech API](http://mdn.github.io/web-speech-api/speech-color-changer/)
-- [Voice API](https://github.com/mdn/web-speech-api/tree/master/speech-color-changer)
-- [Synthesizer API](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)
-- [Howler.js - audio library](https://howlerjs.com)
-
 ## Javascript for games
 
 - [Lance Multiplayer Server](http://lance.gg)
@@ -23,6 +16,19 @@ A reading list with lots of javascript and typescript coding inspiration
 - [Matter - 2D physics](http://brm.io/matter-js/)
 - [Move an object along a path](https://codepen.io/eerk/pen/qYJREm)
 - [Boardgame.io - build a boardgame in Javascript](http://boardgame.io/#/)
+
+## Weird and interesting stuff
+
+- [Warrior JS - train a javascript warrior in the terminal](https://warrior.js.org)
+- [Marko JS - a super fast reactive UI framework](https://markojs.com)
+- [ReactiveX - the next level of building Javascript Apps](http://reactivex.io)
+- [Intersection Observer - execute code when two elements overlap](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+- [Lazy Loading with Intersection Observer](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+- [30 seconds of code: super handy JS code snippets](https://30secondsofcode.org/index)
+- [CSS modules](https://github.com/css-modules/css-modules)
+- [Parcel Module Bundler](https://parceljs.org)
+- [Wit.ai - interpret intent from text](https://wit.ai)
+- [Javascript Emotion Recognition from webcam](https://github.com/auduno/clmtrackr)
 
 ## Canvas
 
@@ -40,24 +46,18 @@ A reading list with lots of javascript and typescript coding inspiration
 - [Vue Typescript Single File Class Component](https://github.com/vuejs/vue-class-component/blob/master/example/App.vue)
 - [Vue Property Decorators](https://github.com/kaorun343/vue-property-decorator)
 
+## Sound
+
+- [Speech API](http://mdn.github.io/web-speech-api/speech-color-changer/)
+- [Voice API](https://github.com/mdn/web-speech-api/tree/master/speech-color-changer)
+- [Synthesizer API](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)
+- [Howler.js - audio library](https://howlerjs.com)
+
 ## Node
 
 - [Socket.io Multiplayer](https://socket.io)
 - [Socket.io for React](https://dev.to/valentinogagliardi/going-real-time-with-socketio-nodejs-and-react)
 - [Reading OSC messages in Node and sending them to the browser](https://github.com/colinbdclark/osc.js-examples)
-
-## Weird and interesting stuff
-
-- [Warrior JS - train a javascript warrior in the terminal](https://warrior.js.org)
-- [Marko JS - a super fast reactive UI framework](https://markojs.com)
-- [ReactiveX - the next level of building Javascript Apps](http://reactivex.io)
-- [Intersection Observer - execute code when two elements overlap](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
-- [Lazy Loading with Intersection Observer](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
-- [30 seconds of code: super handy JS code snippets](https://30secondsofcode.org/index)
-- [CSS modules](https://github.com/css-modules/css-modules)
-- [Parcel Module Bundler](https://parceljs.org)
-- [Wit.ai - interpret intent from text](https://wit.ai)
-- [Javascript Emotion Recognition from webcam](https://github.com/auduno/clmtrackr)
 
 ### Javascript Machine Learning
 
@@ -72,7 +72,5 @@ A reading list with lots of javascript and typescript coding inspiration
 - [Lian Li explains DeepLearn.JS](https://slidr.io/Chimney42/machine-learning-in-the-browser-with-deeplearn-js#1)
 - [A short video introduction about Neural Networks](https://dev.to/thepracticaldev/introduction-to-neural-networks)
 - [Deep Learning Simplified](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
-- [Build a perceptron from scratch](https://medium.com/@ismailghallou/build-your-perceptron-neural-net-from-scratch-e12b7be9d1ef)
-- [Machine Learning for designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp)
 - [Deep learning book](http://www.deeplearningbook.org)
 - [Linear algebra and other math basics](http://www.mathscoop.com/calculus/derivatives/derivative-by-definition.php)
