@@ -48,9 +48,9 @@ A reading list with lots of javascript and typescript coding inspiration
 
 ## Sound
 
-- [Speech API](http://mdn.github.io/web-speech-api/speech-color-changer/)
-- [Voice API](https://github.com/mdn/web-speech-api/tree/master/speech-color-changer)
-- [Synthesizer API](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)
+- [Web Speech API](http://mdn.github.io/web-speech-api/speech-color-changer/)
+- [Speech Synthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
+- [Sound Synthesis](https://developer.mozilla.org/en-US/docs/Web/API/OscillatorNode)
 - [Howler.js - audio library](https://howlerjs.com)
 
 ## Node
