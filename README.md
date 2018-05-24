@@ -28,6 +28,7 @@ A reading list with lots of javascript and typescript coding inspiration
 - [Parcel Module Bundler](https://parceljs.org)
 - [Wit.ai - interpret intent from text](https://wit.ai)
 - [Javascript Emotion Recognition from webcam](https://github.com/auduno/clmtrackr)
+- [Explorable Explanations](http://explorabl.es)
 
 ## Functional Reactive Programming
 
