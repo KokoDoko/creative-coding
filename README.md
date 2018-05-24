@@ -32,6 +32,7 @@ A reading list with lots of javascript and typescript coding inspiration
 ## Functional Reactive Programming
 
 - [ReactiveX - the next level of building Javascript Apps](http://reactivex.io)
+- [Building a game with ReactiveX](https://manu.ninja/functional-reactive-game-programming-rxjs-breakout/)
 - [Introduction to functional Javascript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)
 - [Fantasy Land : algebraic structures in Javascript](https://github.com/fantasyland/fantasy-land)
 - [Understanding Functors and Monads in Javascript](https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a)
