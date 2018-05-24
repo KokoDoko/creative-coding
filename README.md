@@ -1,6 +1,6 @@
 # Creative Coding for the web
 
-A reading list with lots of javascript and typescript coding inspiration
+Coding inspiration madness
 
 ## Javascript for games
 
