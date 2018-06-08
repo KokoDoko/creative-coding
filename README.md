@@ -84,3 +84,7 @@ Coding inspiration madness
 - [Deep Learning Simplified](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 - [Deep learning book](http://www.deeplearningbook.org)
 - [Linear algebra and other math basics](http://www.mathscoop.com/calculus/derivatives/derivative-by-definition.php)
+
+### Boring stuff but we need it
+
+- [Getting started with AWS](https://aws.amazon.com/getting-started/tutorials/)
